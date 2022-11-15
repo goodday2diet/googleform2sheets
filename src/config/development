@@ -1,0 +1,6 @@
+export const GoogleForm = {
+  url: '1RacH0BZCmS_Y0ahzbxK1NGC_8cQe3JUa9qxwQheOVUQ',
+}
+export const GoogleSpreadSheets = {
+  url: 'http://localhost:5000/graphql',
+}
